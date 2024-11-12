@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.tp3p3.MODELO","l":"Logger"},{"p":"com.tp3p3","l":"Main"}];updateSearchResults();

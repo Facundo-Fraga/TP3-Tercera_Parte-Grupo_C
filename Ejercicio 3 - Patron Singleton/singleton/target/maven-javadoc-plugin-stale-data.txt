@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/FJP76/Desktop/Singleton - copia/singleton/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/FJP76/Desktop/Singleton - copia/singleton/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'singleton 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'singleton 1.0-SNAPSHOT API'
+com.tp3p3
+com.tp3p3.MODELO
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\src\main\java = 1731032171435
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\allclasses-index.html = 1731032205015
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\allpackages-index.html = 1731032205018
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\element-list = 1731032204954
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\help-doc.html = 1731032205049
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\index-all.html = 1731032205031
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\index.html = 1731032205005
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\member-search-index.js = 1731032205022
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\module-search-index.js = 1731032205019
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\overview-summary.html = 1731032205036
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\overview-tree.html = 1731032204999
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\package-search-index.js = 1731032205020
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\search.html = 1731032205034
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\tag-search-index.js = 1731032205023
+C:\Users\FJP76\Desktop\Singleton - copia\singleton\target\reports\apidocs\type-search-index.js = 1731032205021

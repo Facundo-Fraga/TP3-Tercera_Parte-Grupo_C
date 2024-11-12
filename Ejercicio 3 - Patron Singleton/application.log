@@ -1,0 +1,27 @@
+[2024-11-07 22:49:20] [INFO] Proceso 1: Iniciando el proceso
+[2024-11-07 22:49:20] [INFO] Proceso 3: Iniciando el proceso
+[2024-11-07 22:49:20] [INFO] Proceso 2: Iniciando el proceso
+[2024-11-07 22:49:20] [WARN] Proceso 3: Advertencia durante el proceso
+[2024-11-07 22:49:20] [WARN] Proceso 1: Advertencia durante el proceso
+[2024-11-07 22:49:20] [WARN] Proceso 2: Advertencia durante el proceso
+[2024-11-07 22:49:20] [ERROR] Proceso 3: Error crítico en el proceso
+[2024-11-07 22:49:20] [ERROR] Proceso 1: Error crítico en el proceso
+[2024-11-07 22:49:20] [ERROR] Proceso 2: Error crítico en el proceso
+[2024-11-07 22:52:19] [INFO] Proceso 2: Iniciando el proceso
+[2024-11-07 22:52:19] [INFO] Proceso 1: Iniciando el proceso
+[2024-11-07 22:52:19] [INFO] Proceso 3: Iniciando el proceso
+[2024-11-07 22:52:19] [WARN] Proceso 2: Advertencia durante el proceso
+[2024-11-07 22:52:19] [WARN] Proceso 3: Advertencia durante el proceso
+[2024-11-07 22:52:19] [WARN] Proceso 1: Advertencia durante el proceso
+[2024-11-07 22:52:19] [ERROR] Proceso 2: Error crítico en el proceso
+[2024-11-07 22:52:19] [ERROR] Proceso 3: Error crítico en el proceso
+[2024-11-07 22:52:19] [ERROR] Proceso 1: Error crítico en el proceso
+[2024-11-07 23:10:45] [INFO] Proceso 2: Iniciando el proceso
+[2024-11-07 23:10:45] [INFO] Proceso 3: Iniciando el proceso
+[2024-11-07 23:10:45] [INFO] Proceso 1: Iniciando el proceso
+[2024-11-07 23:10:45] [WARN] Proceso 2: Advertencia durante el proceso
+[2024-11-07 23:10:45] [WARN] Proceso 1: Advertencia durante el proceso
+[2024-11-07 23:10:45] [WARN] Proceso 3: Advertencia durante el proceso
+[2024-11-07 23:10:45] [ERROR] Proceso 2: Error crítico en el proceso
+[2024-11-07 23:10:45] [ERROR] Proceso 1: Error crítico en el proceso
+[2024-11-07 23:10:45] [ERROR] Proceso 3: Error crítico en el proceso
